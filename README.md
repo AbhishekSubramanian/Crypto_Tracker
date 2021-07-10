@@ -1,1 +1,1 @@
-# This is a simple project that has been built using HTML5,CSS3,Javascriot and Bootstrap. It uses API calls and retrieves some parameters of various cryptocurrencies. These parameters get updated every few seconds. 
+# This is a simple project that has been built using HTML5,CSS3,Javascript and Bootstrap. It uses API calls and retrieves some parameters of various cryptocurrencies. These parameters get updated every few seconds. 
